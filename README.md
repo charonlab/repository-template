@@ -1,4 +1,4 @@
-## charon/charon-library
+## charonlab/charon-library
 
 The library description.
 
@@ -20,6 +20,6 @@ Documentation is at [docs](docs/index.md)
 
 ## License
 
-The charon-db is open-sourced software licensed under the [MIT](LICENSE.md)
+The charon-library is open-sourced software licensed under the [MIT](LICENSE.md)
 
 
