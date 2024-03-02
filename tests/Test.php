@@ -9,7 +9,7 @@
  * of the MIT license. See the LICENSE.md file for details.
  */
 
-namespace Charon\Tests\Library;
+namespace Charon\Tests\RepositoryTemplate;
 
 use PHPUnit\Framework\Attributes\CoversNothing;
 
@@ -17,6 +17,6 @@ use PHPUnit\Framework\Attributes\CoversNothing;
 class Test extends \PHPUnit\Framework\TestCase
 {
     public function testExample(): void {
-        $this->assertTrue(true);
+        self::assertTrue(true);
     }
 }

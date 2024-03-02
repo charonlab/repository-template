@@ -1,5 +1,5 @@
 {
-  "name": "charonlab/charon-library",
+  "name": "charonlab/repository-template",
   "description": "",
   "license": "MIT",
   "require": {
@@ -13,12 +13,12 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Charon\\Library\\": "src/"
+      "Charon\\RepositoryTemplate\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Charon\\Tests\\Library\\": "tests/"
+      "Charon\\Tests\\RepositoryTemplate\\": "tests/"
     }
   },
   "config": {

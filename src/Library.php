@@ -9,7 +9,7 @@
  * of the MIT license. See the LICENSE.md file for details.
  */
 
-namespace Charon\Library;
+namespace Charon\RepositoryTemplate;
 
 class Library
 {

@@ -7,14 +7,17 @@
          executionOrder="depends,defects"
          requireCoverageMetadata="true"
          beStrictAboutCoverageMetadata="true"
-         failOnRisky="true"
+         displayDetailsOnTestsThatTriggerNotices="true"
+         displayDetailsOnTestsThatTriggerWarnings="true"
+         failOnNotice="true"
          failOnWarning="true"
+         failOnRisky="true"
 >
     <coverage/>
 
     <testsuites>
-        <testsuite name="tests">
-            <directory>./tests</directory>
+        <testsuite name="Charon Test Suite">
+            <directory>tests</directory>
         </testsuite>
     </testsuites>
 

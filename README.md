@@ -1,4 +1,4 @@
-## charon/charon-library
+## charon/repository-template
 
 The library description.
 
@@ -7,7 +7,7 @@ The library description.
 It's recommended that you use Composer to install:
 
 ```bash
-$ composer require charonlab/charon-library
+$ composer require charonlab/repository-template
 ```
 
 ## Documentation
@@ -16,10 +16,10 @@ Documentation is at [docs](docs/index.md)
 
 ## Support
 
-- [Issues](https://github.com/charonlab/charon-library/issues/)
+- [Issues](https://github.com/charonlab/repository-template/issues/)
 
 ## License
 
-The charon-db is open-sourced software licensed under the [MIT](LICENSE.md)
+The charonlab/repository-template is open-sourced software licensed under the [MIT](LICENSE.md)
 
 
