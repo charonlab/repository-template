@@ -1,13 +1,18 @@
-## charon/repository-template
+# charon/repository-template
+
+[![PHP Version Require](https://poser.pugx.org/charonlab/repository-template/require/php)](https://packagist.org/packages/charonlab/repository-template)
+[![Latest Stable Version](https://poser.pugx.org/charonlab/repository-template/v/stable)](https://packagist.org/packages/charonlab/repository-template)
+[![Continuous Integration](https://github.com/charonlab/repository-template/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/charonlab/repository-template/actions)
+[![Total Downloads](https://poser.pugx.org/charonlab/repository-template/downloads)](https://packagist.org/charonlab/repository-template)
 
 The library description.
 
 ## Installation
 
-It's recommended that you use Composer to install:
+Use the composer to install:
 
 ```bash
-$ composer require charonlab/repository-template
+composer require charonlab/repository-template
 ```
 
 ## Documentation
